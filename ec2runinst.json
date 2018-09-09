@@ -1,0 +1,15 @@
+{
+    "DryRun": true,
+    "ImageId": "mi-339ea456",
+    "KeyName": "test-omid",
+    "SecurityGroups": [
+        "test-omid"
+    ],
+    "SecurityGroupIds": [
+       "sg-1ec15974"
+   ],
+    "InstanceType": "p3.2xlarge",
+    "Monitoring": {
+        "Enabled": true
+    }
+}
